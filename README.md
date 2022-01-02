@@ -61,7 +61,8 @@
     border 속성에는 속성값으로 테두리의 두께, 모양, 크기 등을 함꼐 지정할 수 있는데
     이러한 속성을 '단축속성' 이라 한다.
     
-<border 속성의 하위 속성>
+< border 속성의 하위 속성>
+    
     1. border-color : color 정의 방식과 동일
     2. border-width : thin, medium, thick 등의 키워드 또는 px, em, rem 등의 단위
     3. border-style : none(기본값), solid(직선), dotted(점선), dashed(긴 점선) 등
