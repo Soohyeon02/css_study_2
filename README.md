@@ -1,5 +1,6 @@
 # Today's study :)
 - CSS 의 텍스트 꾸미기 속성, display 와 border 에 대해서 공부했음
+
 <텍스트 꾸미기 속성>
 
     font-family : 글꼴을 정의
@@ -61,7 +62,7 @@
     border 속성에는 속성값으로 테두리의 두께, 모양, 크기 등을 함꼐 지정할 수 있는데
     이러한 속성을 '단축속성' 이라 한다.
     
-< border 속성의 하위 속성>
+<border 속성의 하위 속성>
     
     1. border-color : color 정의 방식과 동일
     2. border-width : thin, medium, thick 등의 키워드 또는 px, em, rem 등의 단위
